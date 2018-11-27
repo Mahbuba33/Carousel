@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.img{
+	width: 600px;
+	height: 550px;
+}
+.carousel-indicators li{
+	height: 15px;
+	width: 15px;
+	border-radius: 50%;
+}
+.write h5{
+	font-size: 40px;
+	color:orange;
+}
+.write p{
+	font-size: 20px;
+	color: pink;
+}
